@@ -1,6 +1,6 @@
 body {
-    background: url("background.png") top left;
-    background-size: 100% auto;
+    /* background: url("background.png") top left;
+    background-size: 100% auto; */
     background-attachment: scroll;
 }
 
@@ -46,6 +46,7 @@ body {
 }
 
 .main-content {
+    color: black;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
